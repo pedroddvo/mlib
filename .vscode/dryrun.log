@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+mingw32-make: Entering directory 'c:/Users/Poliveira/Desktop/DEV/C/mlib'
+gcc -Wall -Werror -o scaffold.exe lib/buffer.c lib/test.c
+mingw32-make: Leaving directory 'c:/Users/Poliveira/Desktop/DEV/C/mlib'
+ 
